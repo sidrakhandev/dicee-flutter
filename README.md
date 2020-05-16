@@ -4,9 +4,7 @@
 sidrakhandev
 /
 dicee-flutter
-1
-0
-0
+
  Code
  Issues 0
  Pull requests 0 Actions
@@ -43,14 +41,7 @@ The objective of this tutorial is to introduce you to the core programming conce
 10
 ​
 11
-## What you will create
-12
-​
-13
-We’re going to make a Las Vegas dice app. You can make the die roll at the press of a button. With this app in your pocket, you’ll be able to settle any score on the go!
-14
-​
-15
+
 ![Finished App](https://github.com/londonappbrewery/Images/blob/master/dicee-demo.gif)
 16
 ​
@@ -98,15 +89,3 @@ Choose which email address to associate with this commit
  Commit directly to the master branch.
  Create a new branch for this commit and start a pull request. Learn more about pull requests.
  
-© 2020 GitHub, Inc.
-Terms
-Privacy
-Security
-Status
-Help
-Contact GitHub
-Pricing
-API
-Training
-Blog
-About
